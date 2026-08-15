@@ -23,5 +23,5 @@ I build practical software tools to solve real-world problems in **Quality Contr
 
 I'm interested in collaborating on **Quality Engineering, QA/QC, Python, Data Analytics and Manufacturing** projects.
 
-📩 **Email:** [your-email@example.com](mailto:your-email@example.com)
-🔗 **LinkedIn:** your-linkedin-url
+📩 **Email:** [Hadi.Yabari.M@gmail.com](Hadi.Yabari.M@gmail.com)
+🔗 **LinkedIn:** [Hadi.Yabari](https://ir.linkedin.com/in/hadi-yabari)

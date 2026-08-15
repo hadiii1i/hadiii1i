@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Hadi 👋
 
-<!--
-**hadiii1i/hadiii1i** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**QA/QC Specialist | Python Developer | Quality & Data Analytics**
 
-Here are some ideas to get you started:
+I build practical software tools to solve real-world problems in **Quality Control, Statistical Process Control (SPC), and Manufacturing**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 What I work with
+
+* 🧪 Quality Control & Quality Assurance
+* 📊 SPC, Cp/Cpk & Statistical Analysis
+* 🐍 Python & Data Analytics
+* 🗄️ SQL
+* 🤖 Intelligent Quality Tools
+
+### 🚀 Featured Projects
+
+* **PharmaSPC Intelligence** — Statistical Process Control and intelligent investigation for pharmaceutical manufacturing
+* **Smart Sampling Planner** — ISO 2859-1 / ANSI Z1.4 sampling plan calculator
+* **Quality Maturity Decision Support System (QMDSS)** — Data-driven quality maturity assessment
+
+### 🤝 Open to Collaboration
+
+I'm interested in collaborating on **Quality Engineering, QA/QC, Python, Data Analytics and Manufacturing** projects.
+
+📩 **Email:** [your-email@example.com](mailto:your-email@example.com)
+🔗 **LinkedIn:** your-linkedin-url

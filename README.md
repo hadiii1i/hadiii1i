@@ -1,6 +1,6 @@
 # Hi, I'm Hadi 👋
 
-**QA/QC Specialist | Python Developer | Quality & Data Analytics**
+**QA/QC Specialist | process optimization | Quality & Data Analytics**
 
 I build practical software tools to solve real-world problems in **Quality Control, Statistical Process Control (SPC), and Manufacturing**.
 

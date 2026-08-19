@@ -14,7 +14,7 @@ I build practical software tools to solve real-world problems in **Quality Contr
 
 ### 🚀 Featured Projects
 
-1. [**PharmaSPC Intelligence**](https://github.com/hadiii1i/PharmaSPC-Intelligence) — Statistical Process Control and intelligent investigation for pharmaceutical manufacturing
+1. [**PharmaSPC Intelligence**]([https://github.com/hadiii1i/PharmaSPC-Intelligence](https://github.com/hadiii1i/PharmaSPC_Intelligence)) — Statistical Process Control and intelligent investigation for pharmaceutical manufacturing
 
 2. [**Smart Sampling Planner**](https://github.com/hadiii1i/smart-sampling-planner) — ISO 2859-1 / ANSI Z1.4 sampling plan calculator
 
